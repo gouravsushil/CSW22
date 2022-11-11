@@ -1,0 +1,76 @@
+body{
+   text-align: center;
+}
+
+.prim{
+  background-color: #CFF5E7;
+  padding: 3em;
+  border: 2px solid black;
+}
+
+.bar{
+   height:10em;
+   width:1em;
+   margin-top:5em;
+   margin-left: 2em;
+   margin-right: 8em;
+}
+span{
+  display: block;
+   margin-top:5em;
+}
+
+.a{
+  background-color: black;
+  display: inline-block;
+}
+.b{
+  background-color: blue;
+  display: inline-block;
+}
+.c{
+  background-color: red;
+  display: inline-block;
+}
+.x,.y,.z{
+  height: 1em;
+  background: transparent;
+  border: 1px solid black;
+  position:relative;
+}
+.x{
+  width:5em;
+  left:600;
+  bottom:60;
+}
+.y{
+  width:7em;
+  left: 585;
+  bottom:60;
+}
+.z{
+  width:9em;
+  left: 570;
+  bottom:60;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
